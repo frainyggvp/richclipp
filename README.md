@@ -1,2 +1,2 @@
-# pyclipper
-simple clipper on python
+# richclipp
+simple clipper on python with cool features
